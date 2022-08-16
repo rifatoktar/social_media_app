@@ -1,16 +1,7 @@
 # social_media
 
-A new Flutter project.
+Social Media App UI Design with Flutter and Figma
 
-## Getting Started
+You can observe to predesign process in Figma
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![akdjsalkdsja](https://user-images.githubusercontent.com/105917287/184930568-4df5e121-d328-44a5-9036-eda4ef152ce2.PNG)
